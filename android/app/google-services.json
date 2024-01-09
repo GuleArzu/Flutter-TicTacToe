@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851041409616",
+    "project_id": "ticgame-123",
+    "storage_bucket": "ticgame-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851041409616:android:85cfc5c17a874d11de0f55",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQXYYF-5EUmau6lBYlPPQZFn2kNP4eMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
